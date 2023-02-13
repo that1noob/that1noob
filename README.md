@@ -4,7 +4,8 @@ I’m currently learning:
   * How to use GitHub :^)
   * NodeJS to make a Discord bot
   * C++ for school
-  * Unity Engine and/or Unreal Engine
+  * Unity Engine and might go to Unreal Engine
+  * Blender
   * Embedded hardware
   
 Projects I want to start making:
